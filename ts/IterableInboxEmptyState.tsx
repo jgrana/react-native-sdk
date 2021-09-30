@@ -14,7 +14,6 @@ type emptyStateProps = {
    tabBarHeight: number,
    tabBarPadding: number,
    navTitleHeight: number,
-   contentWidth: number,
    height: number,
    isPortrait: boolean
 }
